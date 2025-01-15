@@ -1,0 +1,3 @@
+MODE = "mock"
+LOG_LEVEL = "INFO"
+# ...other config values as needed...
